@@ -4,7 +4,6 @@ import 'package:navadisenio1/screens/dashboard/widgets/item_doctor.dart';
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
